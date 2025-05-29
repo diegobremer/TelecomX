@@ -94,4 +94,18 @@ A maioria dos clientes que cancelaram **não contratavam serviços complementare
 
 ---
 
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/diegobremer/TelecomX.git
+2. Acesse o Google Colab e abra o arquivo TelecomX_BR.ipynb.
+
+3. Execute o notebook para ver o passo a passo da análise.
+
+## 📌 Autor
+
+**Diego Bremer**
+Se tiver sugestões ou dúvidas, fique à vontade para abrir uma issue ou entrar em contato via GitHub!
+  
 
